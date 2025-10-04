@@ -69,7 +69,7 @@ Techmorph_PS1_DDH/
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/Techmorph_PS1_DDH.git
+git clone (https://github.com/amansaif/Techmorph_PS1_DDH.git)
 cd Techmorph_PS1_DDH
 ```
 
